@@ -1,6 +1,10 @@
 # DIO - Trilha .NET - Explorando a linguagem C#
 www.dio.me
 
+## Observações sobre versões do .NET:
+
+A máquina em que este projeto foi programado está com a versão 8.0+ do .NET. Logo, o TargetFramework foi alterado de net6.0 para net8.0 e posteriormente, restaurado. Caso precise alterar as versões do .NET, no arquivo DesafioProjetoHospedagem.csproj, altere o número entre as tags TargetFramework netX.0, substituindo o X pela versão desejada.
+
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de explorando a linguagem C#, da trilha .NET da DIO.
 
